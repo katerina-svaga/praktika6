@@ -17,7 +17,7 @@ body {
   width: 330px;
   height: 530px;
   border-radius: 15px;
-  box-shadow: 0 15px 20px 10px #8B4513;
+  box-shadow: 0 15px 20px 10px #db5e84;
   background-image: url("https://raw.githubusercontent.com/katerina-svaga/praktika6/refs/heads/main/637f3455833633.5995895cedf65.jpg");
 }
 .player input[type=range] {
@@ -76,7 +76,7 @@ body {
   left: 50%;
   top: 50px;
   transform: translateX(-50%);
-  box-shadow: 0 15px 20px 10px #8B4513;
+  box-shadow: 0 15px 20px 10px #db5e84;
  }
 .player .cover img {
   width: 100%;
